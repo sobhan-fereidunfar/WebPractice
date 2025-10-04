@@ -26,11 +26,6 @@ This repository contains exercises and sample layouts for learning the basics of
 
 ---
 
-## 📸 Preview
-(You can add screenshots of your design here)
-
----
-
 ## 📂 How to Use
 1. Clone the repository:
    ```bash
