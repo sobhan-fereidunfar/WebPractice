@@ -1,3 +1,9 @@
-* {
-  width: 50px;
+body {
+  font-family: "Vazir", "Tahoma", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "YekanBakh", "IranSans", sans-serif;
 }
